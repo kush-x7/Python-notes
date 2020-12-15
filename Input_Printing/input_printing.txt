@@ -1,0 +1,17 @@
+     # PRINTING PART
+
+print("Hello world!")
+
+print( f" Hi my age is {x}")   # f-string use to print different data types in one print function
+
+print("Hello world! \nHello world! \nHello world!")
+
+print("Hello" + "Angela")
+print("Hello " + "Angela")
+print("Hello" + " Angela")
+print("Hello" + " " + "Angela")
+
+      # INPUTTING PART
+
+
+input("What is your name? ")
