@@ -13,5 +13,4 @@ print("Hello" + " " + "Angela")
 
       # INPUTTING PART
 
-
 input("What is your name? ")
