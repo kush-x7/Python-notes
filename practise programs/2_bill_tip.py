@@ -1,3 +1,18 @@
+Instructions
+
+    Create a greeting for your program.
+    Ask for the bill
+    Ask for the tip percentage
+    Ask for the number of people to split the bill with.
+    Calculate the total bill and the bill per person.
+    Display the bill per person with 2 decimal places.
+
+    If the bill was $150.00, split between 5 people, with 12% tip.
+    Each person should pay (150.00 / 5) * 1.12 = 33.6
+    Format the result to 2 decimal places = 33.60
+
+
+
 # 1. Create a greeting for your program.
 print('Welcome to the tip calculator.')
 
