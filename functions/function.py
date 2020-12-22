@@ -31,3 +31,7 @@ round()    ->for rounding of values    round(x ,2) round of ang give 2 decimal p
 .extend()  -> inserting a list in a list ->alphabet.extend(['s', 'l'])
 
 .remove()  -> for removing element from the list -> .remove(11)
+
+open("filename.txt")  ->for opening text file
+
+.read()    -> reading the txt file
