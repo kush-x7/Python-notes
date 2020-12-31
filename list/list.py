@@ -2,6 +2,19 @@
 
 list= ['a', 'b', ['c','d']]
 
+#ist comprehension
+new_list = [new_item for item in list]
+
+#example
+number = [1 ,2 ,3]
+new_number = [ n+1 for n in number]
+
+# if condition in list
+
+names = ["kush", "samridhi", "bhindi", "aluu"]
+new_names =[name for name in name if len(name)> 5]
+
+
 
 
 states_of_america = ["Delaware", "Pennsylvania", "New Jersey", "Georgia",
